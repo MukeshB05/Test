@@ -39,9 +39,9 @@ body{
     box-shadow: 0 3px 10px 0 var(--shadow);
     background-color: var(--navbar-background);
 }
-.logo{
-    height: 50px;
-    width: 256px;
+.navbar img{
+    height: 10rem;
+    width: 11rem;
 }
 .nav-links{
     height: 100%;
