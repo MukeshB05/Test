@@ -64,7 +64,7 @@ body{
 .menu-hamburger{
     position: absolute;
     width: 27px;
-    height: 25px;
+    height: 15px;
     top: 1.7em;
     right: 2em;
     display: none;
