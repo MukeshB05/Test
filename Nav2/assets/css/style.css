@@ -40,7 +40,7 @@ body{
     background-color: var(--navbar-background);
 }
 .navbar img{
-    height: 30px;
+    height: 50px;
     width: 120px;
 }
 .nav-links{
