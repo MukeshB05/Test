@@ -64,7 +64,7 @@ body{
 .menu-hamburger{
     position: absolute;
     width: 27px;
-    height: 15px;
+    height: 25px;
     top: 1.7em;
     right: 2em;
     display: none;
@@ -73,7 +73,7 @@ body{
 }
 .bar-menu{
     width: 100%;
-    height: 4.5px;
+    height: 3.5px;
     border-radius: 15px;
     background-color: var(--color);
 }
