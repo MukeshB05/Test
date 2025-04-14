@@ -41,7 +41,7 @@ body{
 }
 .logo{
     img-size: 1.8em;
-    img-weight: 600;
+    img-weight: 200;
     color: var(--Logo-color);
 }
 .nav-links{
