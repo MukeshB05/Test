@@ -40,8 +40,8 @@ body{
     background-color: var(--navbar-background);
 }
 .navbar img{
-    height: 5px;
-    width: 11px;
+    height: 30px;
+    width: 120px;
 }
 .nav-links{
     height: 100%;
