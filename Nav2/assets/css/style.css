@@ -3,7 +3,7 @@
 :root{
     /* COLOR */
     --background: hsl(0, 19%, 93%);
-    --navbar-background: hsl(0, 13%, 95%); 
+    --navbar-background: hsl(0, 13%, 1%); 
     --shadow: hsla(237, 14%, 73%, 0.452); 
     --Logo-color: hsl(226, 46%, 51%);
     --color: #36a624;
